@@ -1,0 +1,2 @@
+require('./datastore');
+require('./app')();
